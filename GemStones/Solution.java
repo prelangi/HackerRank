@@ -23,7 +23,7 @@ public class Solution {
         
 		for(int i=1;i<T;i++)
 		{
-			s = scan.nextLine();
+			s = scan.next();
             chArray = s.toCharArray();
             for(int k=0;k<chArray.length;k++) {
                 elements_2.add(chArray[k]);
