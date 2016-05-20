@@ -1,3 +1,3 @@
 **Problem**
 ================
-[https://www.hackerrank.com/challenges/funny-string] Funny String problem from HackerRank
+Funny String problem from HackerRank [Link](https://www.hackerrank.com/challenges/funny-string)
